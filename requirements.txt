@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+ipykernel
+matplotlib
+mne
+torch
+pyqt5
+nibabel
+nilearn
+deepmeg @ git+https://github.com/1101AlexZab1011/deepmeg
